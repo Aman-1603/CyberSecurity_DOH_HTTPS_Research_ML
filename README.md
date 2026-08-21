@@ -7,6 +7,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Dataset](https://img.shields.io/badge/Dataset-CIRA--CIC--DoHBrw--2020-blue?style=for-the-badge)](https://www.unb.ca/cic/datasets/dohbrw-2020.html)
 
 **F1 Score: 0.951 · ROC-AUC: 0.990 · Zero-Day Detection · No Decryption Required**
 
