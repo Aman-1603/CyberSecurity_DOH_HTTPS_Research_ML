@@ -298,6 +298,13 @@ BENIGN ✅  MALICIOUS 🚨
 
 ---
 
+## 🔮 Future Work
+
+- [ ] Real-time PCAP stream integration
+- [ ] Browser extension for live DoH monitoring  
+- [ ] Extend to detect HTTPS-based C2 traffic
+- [ ] Federated learning for privacy-preserving training
+
 ## 🎯 Key Contributions
 
 1. **Zero-Day Detection** — Detects novel DoH attacks without prior knowledge of attack signatures
