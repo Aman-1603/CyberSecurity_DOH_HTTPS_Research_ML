@@ -171,6 +171,7 @@ T = μ_error + k·σ_error  (99th percentile of benign errors)
 | **ROC-AUC** | **0.990** | 0.912 | 0.887 |
 | **Zero-Day Detection** | **✅ Yes** | ⚠️ Partial | ⚠️ Partial |
 | **Decryption Needed** | **❌ No** | ❌ No | ❌ No |
+| **Processing Time** | **< 5ms/flow** | ~12ms/flow | ~8ms/flow |
 
 ### Attack Types Detected
 - ✅ **DNS Tunneling** (dns2tcp, DNSCat2, Iodine)
